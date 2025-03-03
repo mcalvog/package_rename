@@ -7,7 +7,7 @@ const _pubspecFileName = 'pubspec.yaml';
 
 // ? Android
 const _androidManifestFileName = 'AndroidManifest.xml';
-const _buildGradleFileName = 'build.gradle';
+const _buildGradleFileName = 'build.gradle.kts';
 
 // ? iOS
 const _infoPlistFileName = 'Info.plist';
